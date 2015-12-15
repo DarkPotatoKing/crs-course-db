@@ -1,0 +1,306 @@
+42503
+Philo 1 SUV
+OCAMPO, MA. LIZA RUTH
+3.0
+S 10AM-1PM lec PH 222
+25 / 25 	72 	Add to my desired classes
+42453
+Philo 1 THQ
+PEREZ, ARTURO
+3.0
+TTh 7-8:30AM lec PH 312-314
+25 / 25 	145 	Add to my desired classes
+42454
+Philo 1 THR1
+PEREZ, ARTURO
+3.0
+TTh 8:30-10AM lec PH 312-314
+25 / 25 	229 	Add to my desired classes
+42455
+Philo 1 THU1
+DE GUZMAN, SYMEL NOELIN
+3.0
+TTh 10-11:30AM lec PH 404
+25 / 25 	138 	Add to my desired classes
+42456
+Philo 1 THU2
+ALVAREZ, CATHLYNE JOY
+3.0
+TTh 10-11:30AM lec PH 317
+25 / 25 	478 	Add to my desired classes
+42457
+Philo 1 THU3
+OCAMPO, MA. LIZA RUTH
+3.0
+TTh 10-11:30AM lec PH 222
+25 / 25 	77 	Add to my desired classes
+42458
+Philo 1 THU4
+AGPAOA, JERWIN
+3.0
+TTh 10-11:30AM lec TBA
+25 / 25 	655 	Add to my desired classes
+42459
+Philo 1 THU5
+DE VILLA, AGERICO
+3.0
+TTh 10-11:30AM lec PH 306
+25 / 25 	64 	Add to my desired classes
+42460
+Philo 1 THU6
+FRONDA, EARL STANLEY
+3.0
+TTh 10-11:30AM lec PH 312-314
+25 / 25 	246 	Add to my desired classes
+42461
+Philo 1 THU7
+TBA
+3.0
+TTh 10-11:30AM lec PH 406
+25 / 25 	39 	Add to my desired classes
+42462
+Philo 1 THV1
+ALVAREZ, CATHLYNE JOY
+3.0
+TTh 11:30AM-1PM lec PH 317
+25 / 25 	383 	Add to my desired classes
+42463
+Philo 1 THV2
+DE VILLA, AGERICO
+3.0
+TTh 11:30AM-1PM lec PH 222
+25 / 25 	64 	Add to my desired classes
+42464
+Philo 1 THV3
+MENDOZA, PERSEVILLE
+3.0
+TTh 11:30AM-1PM lec PH 319
+25 / 25 	79 	Add to my desired classes
+42465
+Philo 1 THV4
+FRONDA, EARL STANLEY
+3.0
+TTh 11:30AM-1PM lec PH 312-314
+25 / 25 	239 	Add to my desired classes
+42466
+Philo 1 THW1
+DE GUZMAN, SYMEL NOELIN
+3.0
+TTh 1-2:30PM lec PH 404
+25 / 25 	98 	Add to my desired classes
+42467
+Philo 1 THW2
+OCAMPO, MA. LIZA RUTH
+3.0
+TTh 1-2:30PM lec PH 222
+25 / 25 	57 	Add to my desired classes
+42468
+Philo 1 THW3
+DE VILLA, AGERICO
+3.0
+TTh 1-2:30PM lec PH 306
+25 / 25 	47 	Add to my desired classes
+42469
+Philo 1 THW4
+MENDOZA, PERSEVILLE
+3.0
+TTh 1-2:30PM lec PH 319
+25 / 25 	69 	Add to my desired classes
+42470
+Philo 1 THW5
+FRONDA, EARL STANLEY
+3.0
+TTh 1-2:30PM lec PH 312-314
+25 / 25 	206 	Add to my desired classes
+42471
+Philo 1 THW6
+TBA
+3.0
+TTh 1-2:30PM lec PH 406
+25 / 25 	31 	Add to my desired classes
+42472
+Philo 1 THX1
+PEREZ, ARTURO
+3.0
+TTh 2:30-4PM lec PH 317
+25 / 25 	185 	Add to my desired classes
+42473
+Philo 1 THX2
+FRONDA, EARL STANLEY
+3.0
+TTh 2:30-4PM lec PH 312-314
+25 / 25 	216 	Add to my desired classes
+42474
+Philo 1 THX3
+SOBERANO, RUBICON
+3.0
+TTh 2:30-4PM lec PH 420
+25 / 25 	38 	Add to my desired classes
+42475
+Philo 1 THY1
+BANARES, ROMULO
+3.0
+TTh 4-5:30PM lec PH 312-314
+25 / 25 	30 	Add to my desired classes
+42476
+Philo 1 THY2
+SOBERANO, RUBICON
+3.0
+TTh 4-5:30PM lec PH 420
+25 / 25 	19 	Add to my desired classes
+42477
+Philo 1 THZ
+BANARES, ROMULO
+3.0
+TTh 5:30-7PM lec PH 312-314
+25 / 25 	22 	Add to my desired classes
+42478
+Philo 1 WFQ1
+MARQUEZ, LEANDER
+3.0
+WF 7-8:30AM lec PH 319
+25 / 25 	87 	Add to my desired classes
+42479
+Philo 1 WFQ2
+PEREZ, ARTURO
+3.0
+WF 7-8:30AM lec PH 312-314
+25 / 25 	116 	Add to my desired classes
+42480
+Philo 1 WFR1
+MARQUEZ, LEANDER
+3.0
+WF 8:30-10AM lec PH 319
+25 / 25 	144 	Add to my desired classes
+42481
+Philo 1 WFU1
+DE GUZMAN, SYMEL NOELIN
+3.0
+WF 10-11:30AM lec PH 420
+25 / 25 	117 	Add to my desired classes
+42482
+Philo 1 WFU2
+ALVAREZ, CATHLYNE JOY
+3.0
+WF 10-11:30AM lec PH 222
+25 / 25 	401 	Add to my desired classes
+42483
+Philo 1 WFU3
+AGPAOA, JERWIN
+3.0
+WF 10-11:30AM lec PH 317
+25 / 25 	593 	Add to my desired classes
+42485
+Philo 1 WFU4
+DE VILLA, AGERICO
+3.0
+WF 10-11:30AM lec PH 312-314
+25 / 25 	50 	Add to my desired classes
+42484
+Philo 1 WFU5
+ESPIRITU, JAIRUS
+3.0
+WF 10-11:30AM lec PH 408
+25 / 25 	60 	Add to my desired classes
+42486
+Philo 1 WFU6
+TBA
+3.0
+WF 10-11:30AM lec PH 404
+25 / 25 	35 	Add to my desired classes
+42487
+Philo 1 WFU7
+TBA
+3.0
+WF 10-11:30AM lec PH 406
+25 / 25 	30 	Add to my desired classes
+42488
+Philo 1 WFV1
+MARQUEZ, LEANDER
+3.0
+WF 11:30AM-1PM lec PH 319
+25 / 25 	135 	Add to my desired classes
+42489
+Philo 1 WFV2
+ALVAREZ, CATHLYNE JOY
+3.0
+WF 11:30AM-1PM lec PH 222
+25 / 25 	391 	Add to my desired classes
+42490
+Philo 1 WFW1
+MARQUEZ, LEANDER
+3.0
+WF 1-2:30PM lec PH 319
+25 / 25 	137 	Add to my desired classes
+42491
+Philo 1 WFW2
+DE GUZMAN, SYMEL NOELIN
+3.0
+WF 1-2:30PM lec PH 418
+25 / 25 	111 	Add to my desired classes
+42492
+Philo 1 WFW3
+BANARES, ROMULO
+3.0
+WF 1-2:30PM lec PH 222
+25 / 25 	35 	Add to my desired classes
+42493
+Philo 1 WFW4
+DE VILLA, AGERICO
+3.0
+WF 1-2:30PM lec PH 312-314
+25 / 25 	56 	Add to my desired classes
+42494
+Philo 1 WFW5
+ESPIRITU, JAIRUS
+3.0
+WF 1-2:30PM lec PH 408
+25 / 25 	50 	Add to my desired classes
+42495
+Philo 1 WFW6
+TBA
+3.0
+WF 1-2:30PM lec PH 404
+25 / 25 	36 	Add to my desired classes
+42496
+Philo 1 WFW7
+TBA
+3.0
+WF 1-2:30PM lec PH 406
+25 / 25 	32 	Add to my desired classes
+42497
+Philo 1 WFX1
+SOBERANO, RUBICON
+3.0
+WF 2:30-4PM lec PH 420
+25 / 25 	30 	Add to my desired classes
+42498
+Philo 1 WFX2
+BANARES, ROMULO
+3.0
+WF 2:30-4PM lec PH 306
+25 / 25 	35 	Add to my desired classes
+42499
+Philo 1 WFX3
+ESPIRITU, JAIRUS
+3.0
+WF 2:30-4PM lec PH 408
+25 / 25 	69 	Add to my desired classes
+42500
+Philo 1 WFX4
+TBA
+3.0
+WF 2:30-4PM lec PH 404
+25 / 25 	31 	Add to my desired classes
+42501
+Philo 1 WFY
+SOBERANO, RUBICON
+3.0
+WF 4-5:30PM lec PH 420
+25 / 25 	27 	Add to my desired classes
+42502
+Philo 1 WFZ
+BANARES, ROMULO
+3.0
+WF 5:30-7PM lec PH 420
+25 / 25 	20 	Add to my desired classes
