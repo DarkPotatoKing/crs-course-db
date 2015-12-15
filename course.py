@@ -27,6 +27,7 @@ class Course(object):
 
     def width(self, s, w):
         return s + ' ' * (int(w) - len(s))
+
 if __name__ == '__main__':
     c = Course("42503",
                "Philo 1 SUV",
