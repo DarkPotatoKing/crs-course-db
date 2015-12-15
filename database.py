@@ -37,8 +37,15 @@ class Database(object):
         self.courses.sort(key = lambda x: float(x.slots) / float(x.demand), reverse = True)
         # print self
 
+    def total_chance(self):
+        chance = 1.0
+        for i in self.courses:
+            chance *= 1 - min(1.0, float(i.slots) / float(i.demand))
+        return 1- chance
+
 if __name__ == '__main__':
     d = Database('sample.txt')
     d.filter_by_surname(['Perez','De Guzman','Alvares','Agpaoa','Fronda','Mendoza'])
     d.sort_by_chance()
     print d
+    print d.total_chance()
