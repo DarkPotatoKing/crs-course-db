@@ -1,3 +1,5 @@
+from name import Name
+
 class Course(object):
     """An object to represent a course offered on CRS"""
     def __init__(self, code, title, professor, units, schedule, slots):
@@ -6,7 +8,7 @@ class Course(object):
         title = title.split()
         self.name = ' '.join(title[:-1])
         self.section = title[-1]
-        self.professor = professor
+        self.professor = Name(professor)
         self.units = float(units)
         self.schedule = schedule
         slots = slots.split()
