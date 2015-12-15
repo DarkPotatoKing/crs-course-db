@@ -14,7 +14,7 @@ class Extractor(object):
                 int(i.split(',')[0])
                 s += '\n'
             except:
-                s += ' '
+                s += '***'
             s += i
 
         with open(filename, 'w') as f:
