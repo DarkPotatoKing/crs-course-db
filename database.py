@@ -10,20 +10,13 @@ class Database(object):
         lines = ''
         with open(filename, 'r') as f:
             lines = f.readlines()
-            lines = [i.replace('Add to my desired classes', '').strip() for i in lines]
-
-        courses = list()
-        for i, val in enumerate(lines[::6]):
-            # print i, val
-            courses.append(lines[i*6:i*6+6])
 
         self.courses = list()
-        for i in courses:
-            # print i[2]
-            self.courses.append(Course(i[0], i[1], i[2], i[3], i[4], i[5]))
 
-        # for i in self.courses:
-        #     print i
+        for i in lines:
+            x = i.split(',')
+            x = [y.strip('()"') for y in x]
+            self.courses.append(Course(x[0],x[1],x[2],x[3],x[4],x[5],x[6]))
 
     def __repr__(self):
         return '\n\n'.join([str(i) for i in self.courses])
@@ -50,10 +43,11 @@ class Database(object):
         return len(self.courses)
 
 if __name__ == '__main__':
-    d = Database('sample.txt')
-    d.filter_by_surname(['Perez','De Guzman','Alvares','Agpaoa','Fronda','Mendoza'])
-    d.sort_by_chance()
+    d = Database('sample.csv')
     print d
-    d.first(9)
-    print d.total_chance()
-    print len(d)
+    # d.filter_by_surname(['Perez','De Guzman','Alvares','Agpaoa','Fronda','Mendoza'])
+    # d.sort_by_chance()
+    # print d
+    # d.first(9)
+    # print d.total_chance()
+    # print len(d)
