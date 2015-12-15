@@ -14,7 +14,8 @@ class Extractor(object):
                 int(i.split(',')[0])
                 s += '\n'
             except:
-                s += '***'
+                if i != lines[1]:
+                    s += '***'
             s += i
 
         with open(filename, 'w') as f:
