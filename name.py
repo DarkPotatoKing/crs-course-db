@@ -6,7 +6,7 @@ class Name(object):
             self.firstname = name
             self.surname = name
         else:
-            name = name.split(',')
+            name = name.split('\t')
             self.firstname = name[1].strip()
             self.surname = name[0].strip()
 
@@ -15,7 +15,7 @@ class Name(object):
 
 
 if __name__ == '__main__':
-    n = Name('AGPAOA, JERWIN')
+    n = Name('AGPAOA\tJERWIN')
     m = Name('TBA')
     print n
     print m
