@@ -43,9 +43,17 @@ class Database(object):
             chance *= 1 - min(1.0, float(i.slots) / float(i.demand))
         return 1- chance
 
+    def first(self, num):
+        self.courses = self.courses[:num]
+
+    def __len__(self):
+        return len(self.courses)
+
 if __name__ == '__main__':
     d = Database('sample.txt')
     d.filter_by_surname(['Perez','De Guzman','Alvares','Agpaoa','Fronda','Mendoza'])
     d.sort_by_chance()
     print d
+    d.first(9)
     print d.total_chance()
+    print len(d)
