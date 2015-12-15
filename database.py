@@ -24,6 +24,14 @@ class Database(object):
         # for i in self.courses:
         #     print i
 
+    def __repr__(self):
+        return '\n\n'.join([str(i) for i in self.courses])
+
+
+    def sort_by_chance(self):
+        self.courses.sort(key = lambda x: float(x.slots) / float(x.demand), reverse = True)
+        print self
 
 if __name__ == '__main__':
-    Database('sample.txt')
+    d = Database('sample.txt')
+    d.sort_by_chance()
